@@ -8,7 +8,7 @@
     width: 180px;
     text-align: center;
 }
-.employeeEditForm{
+.showForm{
     position: absolute;
     top:0;
     left: 0;
@@ -29,7 +29,7 @@
     cursor: pointer;
     display: none;
 }
-.employeeEditForm.active{
+.showForm.active{
     display: block;
 }
 .backdrop.active{
