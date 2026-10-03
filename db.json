@@ -34,9 +34,9 @@
     {
       "name": "Grantha nayak",
       "email": "grantha@yahho.com",
-      "department": "HR",
+      "department": "Sales",
       "salary": "90000",
-      "id": "HcUmklgQegM"
+      "id": "RYryXUUaBJ4"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
